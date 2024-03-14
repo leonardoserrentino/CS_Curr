@@ -1,2 +1,0 @@
-void codifica();
-void decodifica();

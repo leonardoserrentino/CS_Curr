@@ -1,1 +1,0 @@
-int ddd(int n);

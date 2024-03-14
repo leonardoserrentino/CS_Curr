@@ -1,1 +1,0 @@
-int doppio(int n);
