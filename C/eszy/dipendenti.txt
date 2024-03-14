@@ -1,0 +1,9 @@
+Leo 3500
+Mario 1500
+Giulia 2400
+Maria 2100
+Stefano 2700
+Guido 1200
+Teresa 1500
+Gustavio 7500
+

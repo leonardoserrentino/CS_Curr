@@ -1,0 +1,12 @@
+Smeraldo 300
+Diamante 1000
+Platino 200
+Oro 300
+Argento 100
+Vibranio 2000
+Kryptonite 900
+Tufo 10
+basta 0
+
+3
+
