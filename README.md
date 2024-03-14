@@ -1,0 +1,1 @@
+Welcome to my repository, which serves as a comprehensive archive and showcase of my journey through the Computer Science Bachelor's Degree. Here, you will find a diverse range of projects, assignments, and personal explorations that not only reflect the breadth and depth of the curriculum but also my passion for technology and innovation in the field of Computer Science and AI.
